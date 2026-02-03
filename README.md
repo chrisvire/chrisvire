@@ -1,3 +1,5 @@
 ### Chris Hubbard - Missionary / Software Developer
 
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisvire&count_private=true&hide=stars&theme=gotham)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
